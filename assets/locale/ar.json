@@ -1,0 +1,133 @@
+{
+  "User": "مستخدم",
+  "buttonTitle": "English",
+  "Vendor": "مطعم",
+  "e-mail": "بريدك الالكترونى",
+  "e-mail or phone": "ادخل البريد الالكتروني",
+  "password": "كلمة المرور",
+  "Login": "تسجيل",
+  "Create an account?": "انشاء حساب؟",
+  "Forgot your password ?": "نسيت كلمة المرور؟",
+  "Or register with your account": "تسجيل بحسابك الخاص",
+  "Vendor account": "حساب المطعم",
+  "user name": "اسم صاحب المطعم/البقالة",
+
+  "phone number": "رقم التليفون",
+  "confirm password": "تاكيد كلمة المرور",
+  "restaurant name?": "اسم المطعم؟/البقالة",
+  "Restaurant Address": "عنوان المطعم/البقالة",
+  "nature of food?": "نوع المنتجات؟",
+  "Done": "تأكيد",
+
+  "e-mail: ": "البريد الالكتروني",
+  "Code": "كود",
+  "Payment method":"طريقة الدفع",
+  "Subscription term":"الاشتراك الحالى: Only one month 16/10/2020 to 16/11/2020",
+  "Subscription term : ":"الاشتراك : ",
+  "nature of food":"نوع المنتجات : ",
+  "manager Name":"مدير المطعم /البقالة: ",
+  "Restaurant Number : ":"رقم تلفون المطعم /البقالة: ",
+  "user2": "اسم المستخدم",
+
+
+  "Restaurant information": "معلومات المطعم",
+  "( Delivery price )": "( سعر التوصيل )",
+  "Delivery time": "وقت التوصيل",
+  "Definition of products": "تعريف المتجات",
+  "Next": "التالى",
+
+
+  "Send": "ارسال",
+
+
+  "User account": "حساب زائر",
+
+
+  "current address": "عنوانك",
+
+
+  "My account": "حسابى",
+  "My Orders": "طلباتى ",
+  "Change account data": "تغيير معلومات حسابى",
+
+
+  "Fast food": "اكل سريع",
+  "Soft drinks": "مشروبات",
+  "Appetizer": "حلويات",
+  "Best seller": "الاكثر مبيعا",
+  "name": "الاسم",
+  "Ingredients": "المكونات",
+  "Price (00.00)": "السعر (00.00)",
+  "More": "المزيد",
+  "or": "او",
+  "Back": "رجوع",
+
+  "Add products" : "اضافة منتجات",
+  "Add Product": "اضافة منتج",
+  "Product Name": "اسم المنتج",
+  "Item components": "المكونات",
+  "Add": "اضافة",
+
+  "Best Offers": "افضل العروض",
+  "Search for restaurants": "ابحث عن مطعم محدد ",
+  "All restaurants": "جميع المطاعم",
+  "arrives in": "يصل خلال",
+  "minutes": "دقيقة",
+  "Min:": "الوقت:",
+  "Delivery:": "التوصيل:",
+
+  "Completed": "مكتمل",
+  "Ongoing": "لم يكتمل بعد",
+  "Price (": "السعر (",
+  "Special request?": "اضافات خاصة?",
+  "(optional)": "(اختيارى)",
+  "Click to enter": "اضغط للدخول",
+  "Add to cart": "اضف الى سلتك",
+  "follow order": "تتبع الطلب",
+  "Search": "بحث",
+  "Offers": "عروض",
+  "Add new products": "اضافة منتج جديد",
+  "quantity:": "الكمية: ",
+  "special request:": "اضافات خاصة",
+
+
+  "Confirmation" : "تاكيد الطلب",
+  "Delivery to" : "الي",
+
+  "Your request is in progress" : "طلبك قيد التنفيذ",
+  "To follow up on your current order" : "لمتابعة طلبك الحالي",
+  "contact a restaurant " : "تواصل مع المطعم",
+  "at" : "علي",
+  "Back to home" : "عودة الي الرئيسية",
+
+  "There are no requests currently": "لا يوجد طلبات حاليا",
+  "No orders" : "لا يوجد طلبات",
+  "Cart is Empty" : "السلة فارغة",
+  "Grill": "محمر",
+  "Sandwich": "ساندواتشات",
+
+
+  "Search for a region, or street. . .": "ابحث عن منطقة او شارع...",
+  "Delivery Address" : "عنوان التوصيل",
+  "Arrived here" : "وصل هنا",
+
+  "Your Orders" : "الطلبات",
+
+  "Enter your Name" : "ادخل اسمك",
+  "Enter your Address" : "ادخل العنوان",
+
+  "meal name:" : "اسم الوجبة: ",
+  "user name:" : "الاسم: ",
+  "user phone:" : "رقم الموبايل: ",
+  "user address:" : "العنوان: ",
+  "time:" : "الوقت: ",
+  "Restaurant name:" : "اسم المطعم: ",
+  "Restaurant phone:" : "رقم المطعم: ",
+  "Delivery time:" : "وقت التوصيل: ",
+  "Delivery price:" : "سعر التوصيل: ",
+
+  "Total price": "السعر الكلي ",
+  "There are no orders currently": "لا يوجد طلبات حاليا"
+
+
+}

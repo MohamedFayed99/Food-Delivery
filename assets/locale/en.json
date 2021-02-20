@@ -1,0 +1,117 @@
+{
+
+  "buttonTitle": "عربى",
+  "user": "user",
+  "vendor": "vendor",
+
+
+  "e-mail": "e-mail",
+  "password": "password",
+  "login": "Login",
+  "Create an account?": "Create an account?",
+  "Forgot your password ?": "Forgot your password ?",
+  "Or register with your account": "Or register with your account",
+
+
+  "user2": "user name",
+  "Vendor account": "Vendor account",
+  "user name": "user name",
+  "phone number": "phone number",
+  "confirm password": "confirm password",
+  "restaurant name?": "restaurant name?",
+  "Restaurant Address": "Restaurant Address",
+  "nature of food?": "nature of food?",
+  "Done": "Done",
+
+
+  "Code": "Code",
+  "Payment method":"Payment method",
+  "Subscription term":"Subscription term : Only one month 16/10/2020 to 16/11/2020",
+  "Subscription term : ":"Subscription term : ",
+  "nature of food":"nature of food : ",
+  "manager Name":"manager Name : ",
+  "Restaurant Number : ":"Restaurant Number : ",
+
+
+  "Restaurant information": "Restaurant information",
+  "( Delivery price )": "( Delivery price )",
+  "Delivery time": "Delivery time",
+  "Definition of products": "Definition of products",
+  "Next": "Next",
+
+
+  "Send":"Send",
+
+
+  "User account": "User account",
+
+
+  "current address": "current address",
+
+
+  "My account": "My account",
+  "My Orders": "My Orders",
+  "Change account data": "Change account data",
+
+
+  "Fast food": "Fast food",
+  "Soft drinks": "Soft drinks",
+  "Appetizer": "Appetizer",
+  "Best seller": "Best seller",
+  "name": "name",
+  "Ingredients": "Ingredients",
+  "Price (00.00)": "Price (00.00)",
+  "More": "More",
+  "or": "or",
+  "Back": "Back",
+
+
+  "Add Product": "Add Product",
+  "Product Name": "Product Name",
+  "Item components": "Item components",
+  "Add": "Add",
+
+  "Best Offers": "Best Offers",
+  "Search for restaurants": "Search for restaurants",
+  "All restaurants": "All restaurants",
+  "arrives in": "arrives in",
+  "minutes": "minutes",
+  "Min:": "Min:",
+  "Delivery:": "Delivery:",
+  "Completed": "Completed",
+  "Ongoing": "Ongoing",
+  "Price (": "Price (",
+  "Special request?": "Special request?",
+  "(optional)": "(optional)",
+  "Click to enter": "Click to enter",
+  "Add to cart": "Add to cart",
+  "follow order": "follow order",
+  "Search": "Search",
+  "Offers": "Offers",
+  "Add new products": "Add new products",
+
+
+
+  "Confirmation" : "Confirmation",
+  "Delivery to" : "Delivery to",
+
+  "Your request is in progress" : "Your request is in progress",
+  "To follow up on your current order" : "To follow up on your current order",
+  "contact a restaurant " : "contact a restaurant ",
+  "at" : "at",
+  "Back to home" : "Back to home",
+
+  "There are no requests currently": "There are no requests currently",
+  "No orders" : "No orders",
+  "Cart is Empty" : "Cart is Empty",
+  "Grill": "Grill",
+  "Sandwich": "Sandwich",
+  "quantity:": "quantity:"
+
+
+
+
+
+
+
+}
